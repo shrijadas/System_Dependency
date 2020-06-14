@@ -1,4 +1,6 @@
-# Run the entry class DependencyResolutionFinder.java
+# Run the entry class DependencyResolutionFinder.java from the path
+
+# src/main/java/com/dependency/resolution/management/
 
 # I/P is stored in input.txt file
 
